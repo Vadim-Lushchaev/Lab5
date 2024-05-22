@@ -161,9 +161,6 @@
     <ClInclude Include="overflow_queue_exception.h" />
     <ClInclude Include="Queue.h" />
   </ItemGroup>
-  <ItemGroup>
-    <Content Include=".gitignore" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
